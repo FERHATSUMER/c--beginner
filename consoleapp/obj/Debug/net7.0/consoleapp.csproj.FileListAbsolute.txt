@@ -1,0 +1,14 @@
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfo.cs
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\bin\Debug\net7.0\consoleapp.exe
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\bin\Debug\net7.0\consoleapp.deps.json
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\bin\Debug\net7.0\consoleapp.runtimeconfig.json
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\bin\Debug\net7.0\consoleapp.dll
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\bin\Debug\net7.0\consoleapp.pdb
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.dll
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\refint\consoleapp.dll
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.pdb
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\consoleapp.genruntimeconfig.cache
+C:\Users\Ferhat\Desktop\c--beginner\consoleapp\obj\Debug\net7.0\ref\consoleapp.dll
